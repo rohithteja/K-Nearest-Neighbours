@@ -1,4 +1,4 @@
-# M1-K-Nearest-Neighbours
+# K-Nearest-Neighbours
 
 The objective is to perform various experiments on Waveform dataset using K-Nearest Neighbor algorithm and study its the behaviour.
 
